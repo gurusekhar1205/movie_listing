@@ -22,7 +22,7 @@ Bootstrap 5
 Clone the repository to your local machine:
 
 
-1. git clone (https://rajeshgonela.github.io/movie_listing/)
+1. git clone (https://gurusekhar1205.github.io/movie_listing/)
 
 
 2. Open the index.html file in your preferred web browser.
